@@ -40,15 +40,15 @@ while True:
 
     if wybor == 3 and wylosowany== "nozyce":
         wygra ="Remis"
-        punkty+=1
+        punkty+=0
 
     if wybor == 1 and wylosowany== "kamien":
-        wygra ="Remis"
+        wygra ="Wygrana"
         punkty=+1
 
     if wybor == 2 and wylosowany== "kamien":
-        wygra ="Wygrana"
-        punkty=+1
+        wygra ="Remis"
+        punkty=+0
         
     if wybor == 3 and wylosowany== "kamien":
         wygra ="Przegrana"
