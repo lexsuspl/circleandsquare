@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import random
-list=["papier","nozyce","kamien"]
+list=["papier","kamien","nozyce"]
 wygra=""
 punkty=0
 pierwszaR=1
